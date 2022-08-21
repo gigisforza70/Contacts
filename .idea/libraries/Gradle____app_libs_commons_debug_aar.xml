@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/commons-debug.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6c7131f2809223b9baf521cd825aaf58/transformed/jetified-commons-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6c7131f2809223b9baf521cd825aaf58/transformed/jetified-commons-debug/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6c7131f2809223b9baf521cd825aaf58/transformed/jetified-commons-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

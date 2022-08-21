@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Liverm0r:BehavioRule:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cfb764147f2d4c10b8a2a70dbbee7055/transformed/jetified-BehavioRule-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cfb764147f2d4c10b8a2a70dbbee7055/transformed/jetified-BehavioRule-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cfb764147f2d4c10b8a2a70dbbee7055/transformed/jetified-BehavioRule-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Liverm0r/BehavioRule/1.0.1/13dc8ceaffbd0f8bd7bc5ca3b607f031e23d7a1f/BehavioRule-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
